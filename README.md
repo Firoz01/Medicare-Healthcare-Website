@@ -1,6 +1,8 @@
 # A health treatment website
 
-Live Site Link: https://medical-center-website.web.app/home
+##MediCare
+
+Live Site Link: https://themedicareworld.netlify.app/news
 
 ## Description
 

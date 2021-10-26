@@ -5,12 +5,11 @@ import { Col, Form, FormControl, InputGroup, Row } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 import useAuth from '../../hooks/useAuth';
 import GooglePNG from './../../assests/images/google.png';
-import FcaebookPNG from './../../assests/images/fb.png';
-import GithubPNG from './../../assests/images/github.png';
+
 
 
 const SignUp = () => {
-    const {signInWithGoogle,signUp,signInWithGithub,signInWithFacebook,error,getEmail,getPassword} = useAuth();
+    const {signInWithGoogle,signUp,error,getEmail,getPassword} = useAuth();
     return (
         
         <div className="text-center my-4">
@@ -73,17 +72,6 @@ const SignUp = () => {
         <div className="">
           <button  onClick={signInWithGoogle} className="btn">
             <img src={GooglePNG} width="46px" alt="google-icon" />
-          </button>
-          <button onClick={signInWithFacebook} className="btn">
-            <img width="50px" src={FcaebookPNG} alt="facebook-icon" />
-          </button>
-          <button onClick={signInWithGithub} className="btn">
-            <img
-              
-              width="55px"
-              src={GithubPNG}
-              alt="github-icon"
-            />
           </button>
         </div>
       </div>
