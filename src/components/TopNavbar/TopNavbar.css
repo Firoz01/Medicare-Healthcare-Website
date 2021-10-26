@@ -1,0 +1,39 @@
+.top-Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1C5D69;
+    color: white;
+    height: 50px;
+}
+
+.top-details{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+}
+
+
+/* .btn{
+    margin: 5px;
+    background-color: white;
+    padding: 3px;
+    border-radius: 4px;
+    transition: 0.5s;
+}
+
+.btn:hover{
+    border: 1px solid white;
+    color: white;
+    background-color: #1C5D69;
+} */
+
+.social-icon{
+    /* margin-right: 15px; */
+}
+/* .icon{
+    padding: 0 10px;
+
+} */

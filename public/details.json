@@ -1,0 +1,56 @@
+[
+    {
+        "img": "https://i.ibb.co/60NyMz8/portrait-smiling-handsome-male-doctor-man.jpg",
+        "name": "Cardiologist",
+        "id": "1",
+        "description": "Specialist in heart.Working in this sector more than 20 years, Treated people with great care."
+    },
+    {
+        "img": "https://i.ibb.co/84psv8q/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-postur.jpg",
+        "name": "Eye Specialist",
+        "id": "2",
+        "description": "Eye doctor ,give a great care and treatment for eye.She has much fame for it."
+    },
+    {
+        "img": "https://i.ibb.co/qpw9fpV/portrait-successful-mid-adult-doctor-with-crossed-arms.jpg",
+        "name": "Kidney Specialist",
+        "id": "3",
+        "description": "Best doctor in the hospital for kidney diseases.He handle many critical cases and give good treatment."
+    },
+    {
+        "img": "https://i.ibb.co/nC9LxFj/portrait-smiling-male-doctor.jpg",
+        "name": "Blood Bank",
+        "id": "4",
+        "description": "Blood Bank manager who helps person in time of need,Saves life,Lucomia is the diseases that can be heal by it."
+    },
+    {
+        "img": "https://i.ibb.co/m4xTPZ8/female-doctor-hospital-with-stethoscope.jpg",
+        "name": "Neuro Specialist",
+        "id": "5",
+        "description": "Neuromedicine Specialist ,who treats all neuro patient, recover their problems.He can be reliable doctor for all sufferes."
+    },
+    {
+        "img": "https://i.ibb.co/z6bc8g0/doctor-standing-with-folder-stethoscope.jpg",
+        "name": "Gynocologist",
+        "id": "6",
+        "description": "He is a great gyne, he treats mother and give great care to obstetrics.He also treat baby and mother."
+    },
+    {
+        "img": "https://i.ibb.co/ZVj8tnB/isolated-shotof-happy-successful-mature-senior-physician-wearing-medical-unifrom-stethoscope-having.jpg",
+        "name": "Blood Diseases",
+        "id": "7",
+        "description": "Blood pressure,sugar,Anemia,Lucemia any kind of problems can be solved and treated by him, Best doctor and treatment giver."
+    },
+    {
+        "img": "https://i.ibb.co/F673Cbd/healthcare-workers-medical-insurance-pandemic-covid-19-concept-handsome-smiling-doctor-white-coat-gl.jpg",
+        "name": "Orthopedic Surgeons",
+        "id": "8",
+        "description": "A doctor who specialize in the musculoskeletal system-the bones,joints  that are so essential to movement and everyday life."
+    },
+    {
+        "img": "https://i.ibb.co/ZL6ySpp/black-woman-with-stethoscope.jpg",
+        "name": "Hair Specialist",
+        "id": "9",
+        "description": "There are many paitient who are suffering from hair problem, Oue specialist an be a great reliable place for them."
+    }
+]
