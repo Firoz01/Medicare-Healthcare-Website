@@ -2,7 +2,7 @@
 
 ##MediCare
 
-Live Site Link: https://medicareworld.netlify.app/login
+Live Site Link: https://medicareworld.netlify.app/
 
 ## Description
 
